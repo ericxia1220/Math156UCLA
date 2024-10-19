@@ -1,1 +1,1 @@
-# This is a repository for UCLA Math 156. 
+This is a repository for UCLA Math 156. 
